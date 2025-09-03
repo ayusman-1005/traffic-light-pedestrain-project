@@ -62,5 +62,3 @@ Push Button → Pin 2 (with pull-down resistor / Tinkercad’s default pull-down
 -Demonstrates non-blocking timing with millis().
 
 -Can be extended to real-world traffic light + pedestrian systems.
-
--Good beginner-friendly example for parallel event handling in Arduino.
