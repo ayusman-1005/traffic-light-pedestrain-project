@@ -35,7 +35,7 @@ LEDs:
 
 -Red → Pin 4
 
-Push Button → Pin 2 (with pull-down resistor / Tinkercad’s default pull-down).
+Push Button → Pin 2 (with pull-down resistor).
 
 📜 Code Summary
 
